@@ -1,0 +1,7 @@
+C:\Users\Shterio\source\repos\cinema\zad 2\bin\Debug\zad 2.exe.config
+C:\Users\Shterio\source\repos\cinema\zad 2\bin\Debug\zad 2.exe
+C:\Users\Shterio\source\repos\cinema\zad 2\bin\Debug\zad 2.pdb
+C:\Users\Shterio\source\repos\cinema\zad 2\obj\Debug\zad 2.csproj.AssemblyReference.cache
+C:\Users\Shterio\source\repos\cinema\zad 2\obj\Debug\zad 2.csproj.CoreCompileInputs.cache
+C:\Users\Shterio\source\repos\cinema\zad 2\obj\Debug\zad 2.exe
+C:\Users\Shterio\source\repos\cinema\zad 2\obj\Debug\zad 2.pdb

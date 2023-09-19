@@ -1,0 +1,7 @@
+C:\Users\Shterio\source\repos\cinema\On Time for the Exam\bin\Debug\On Time for the Exam.exe.config
+C:\Users\Shterio\source\repos\cinema\On Time for the Exam\bin\Debug\On Time for the Exam.exe
+C:\Users\Shterio\source\repos\cinema\On Time for the Exam\bin\Debug\On Time for the Exam.pdb
+C:\Users\Shterio\source\repos\cinema\On Time for the Exam\obj\Debug\On Time for the Exam.csproj.AssemblyReference.cache
+C:\Users\Shterio\source\repos\cinema\On Time for the Exam\obj\Debug\On Time for the Exam.csproj.CoreCompileInputs.cache
+C:\Users\Shterio\source\repos\cinema\On Time for the Exam\obj\Debug\On Time for the Exam.exe
+C:\Users\Shterio\source\repos\cinema\On Time for the Exam\obj\Debug\On Time for the Exam.pdb

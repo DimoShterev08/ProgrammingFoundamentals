@@ -1,0 +1,14 @@
+C:\Users\Shterio\source\repos\Ages\Ages\bin\Debug\net6.0\Ages.exe
+C:\Users\Shterio\source\repos\Ages\Ages\bin\Debug\net6.0\Ages.deps.json
+C:\Users\Shterio\source\repos\Ages\Ages\bin\Debug\net6.0\Ages.runtimeconfig.json
+C:\Users\Shterio\source\repos\Ages\Ages\bin\Debug\net6.0\Ages.dll
+C:\Users\Shterio\source\repos\Ages\Ages\bin\Debug\net6.0\Ages.pdb
+C:\Users\Shterio\source\repos\Ages\Ages\obj\Debug\net6.0\Ages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shterio\source\repos\Ages\Ages\obj\Debug\net6.0\Ages.AssemblyInfoInputs.cache
+C:\Users\Shterio\source\repos\Ages\Ages\obj\Debug\net6.0\Ages.AssemblyInfo.cs
+C:\Users\Shterio\source\repos\Ages\Ages\obj\Debug\net6.0\Ages.csproj.CoreCompileInputs.cache
+C:\Users\Shterio\source\repos\Ages\Ages\obj\Debug\net6.0\Ages.dll
+C:\Users\Shterio\source\repos\Ages\Ages\obj\Debug\net6.0\refint\Ages.dll
+C:\Users\Shterio\source\repos\Ages\Ages\obj\Debug\net6.0\Ages.pdb
+C:\Users\Shterio\source\repos\Ages\Ages\obj\Debug\net6.0\Ages.genruntimeconfig.cache
+C:\Users\Shterio\source\repos\Ages\Ages\obj\Debug\net6.0\ref\Ages.dll

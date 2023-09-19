@@ -1,0 +1,7 @@
+C:\Users\Shterio\source\repos\cinema\Journey\bin\Debug\Journey.exe.config
+C:\Users\Shterio\source\repos\cinema\Journey\bin\Debug\Journey.exe
+C:\Users\Shterio\source\repos\cinema\Journey\bin\Debug\Journey.pdb
+C:\Users\Shterio\source\repos\cinema\Journey\obj\Debug\Journey.csproj.AssemblyReference.cache
+C:\Users\Shterio\source\repos\cinema\Journey\obj\Debug\Journey.csproj.CoreCompileInputs.cache
+C:\Users\Shterio\source\repos\cinema\Journey\obj\Debug\Journey.exe
+C:\Users\Shterio\source\repos\cinema\Journey\obj\Debug\Journey.pdb
