@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("This is Github!");
+            Console.WriteLine("This is Github 2!");
         }
     }
 }
