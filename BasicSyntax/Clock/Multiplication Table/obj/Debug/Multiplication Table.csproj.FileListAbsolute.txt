@@ -1,7 +1,0 @@
-C:\Users\Shterio\source\repos\Clock\Multiplication Table\bin\Debug\Multiplication Table.exe.config
-C:\Users\Shterio\source\repos\Clock\Multiplication Table\bin\Debug\Multiplication Table.exe
-C:\Users\Shterio\source\repos\Clock\Multiplication Table\bin\Debug\Multiplication Table.pdb
-C:\Users\Shterio\source\repos\Clock\Multiplication Table\obj\Debug\Multiplication Table.csproj.AssemblyReference.cache
-C:\Users\Shterio\source\repos\Clock\Multiplication Table\obj\Debug\Multiplication Table.csproj.CoreCompileInputs.cache
-C:\Users\Shterio\source\repos\Clock\Multiplication Table\obj\Debug\Multiplication Table.exe
-C:\Users\Shterio\source\repos\Clock\Multiplication Table\obj\Debug\Multiplication Table.pdb

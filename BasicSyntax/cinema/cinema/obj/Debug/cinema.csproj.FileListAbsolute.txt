@@ -1,7 +1,0 @@
-C:\Users\Shterio\source\repos\cinema\cinema\bin\Debug\cinema.exe.config
-C:\Users\Shterio\source\repos\cinema\cinema\bin\Debug\cinema.exe
-C:\Users\Shterio\source\repos\cinema\cinema\bin\Debug\cinema.pdb
-C:\Users\Shterio\source\repos\cinema\cinema\obj\Debug\cinema.csproj.AssemblyReference.cache
-C:\Users\Shterio\source\repos\cinema\cinema\obj\Debug\cinema.csproj.CoreCompileInputs.cache
-C:\Users\Shterio\source\repos\cinema\cinema\obj\Debug\cinema.exe
-C:\Users\Shterio\source\repos\cinema\cinema\obj\Debug\cinema.pdb

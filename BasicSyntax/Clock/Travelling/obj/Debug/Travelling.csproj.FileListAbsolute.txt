@@ -1,6 +1,0 @@
-C:\Users\Shterio\source\repos\Clock\Travelling\bin\Debug\Travelling.exe.config
-C:\Users\Shterio\source\repos\Clock\Travelling\bin\Debug\Travelling.exe
-C:\Users\Shterio\source\repos\Clock\Travelling\bin\Debug\Travelling.pdb
-C:\Users\Shterio\source\repos\Clock\Travelling\obj\Debug\Travelling.csproj.CoreCompileInputs.cache
-C:\Users\Shterio\source\repos\Clock\Travelling\obj\Debug\Travelling.exe
-C:\Users\Shterio\source\repos\Clock\Travelling\obj\Debug\Travelling.pdb

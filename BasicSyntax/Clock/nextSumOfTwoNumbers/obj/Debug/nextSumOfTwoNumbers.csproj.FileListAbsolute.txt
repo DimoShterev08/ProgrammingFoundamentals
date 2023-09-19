@@ -1,7 +1,0 @@
-C:\Users\Shterio\source\repos\Clock\nextSumOfTwoNumbers\bin\Debug\nextSumOfTwoNumbers.exe.config
-C:\Users\Shterio\source\repos\Clock\nextSumOfTwoNumbers\bin\Debug\nextSumOfTwoNumbers.exe
-C:\Users\Shterio\source\repos\Clock\nextSumOfTwoNumbers\bin\Debug\nextSumOfTwoNumbers.pdb
-C:\Users\Shterio\source\repos\Clock\nextSumOfTwoNumbers\obj\Debug\nextSumOfTwoNumbers.csproj.AssemblyReference.cache
-C:\Users\Shterio\source\repos\Clock\nextSumOfTwoNumbers\obj\Debug\nextSumOfTwoNumbers.csproj.CoreCompileInputs.cache
-C:\Users\Shterio\source\repos\Clock\nextSumOfTwoNumbers\obj\Debug\nextSumOfTwoNumbers.exe
-C:\Users\Shterio\source\repos\Clock\nextSumOfTwoNumbers\obj\Debug\nextSumOfTwoNumbers.pdb

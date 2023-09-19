@@ -1,7 +1,0 @@
-C:\Users\Shterio\source\repos\cinema\7 zad\bin\Debug\7 zad.exe.config
-C:\Users\Shterio\source\repos\cinema\7 zad\bin\Debug\7 zad.exe
-C:\Users\Shterio\source\repos\cinema\7 zad\bin\Debug\7 zad.pdb
-C:\Users\Shterio\source\repos\cinema\7 zad\obj\Debug\7 zad.csproj.AssemblyReference.cache
-C:\Users\Shterio\source\repos\cinema\7 zad\obj\Debug\7 zad.csproj.CoreCompileInputs.cache
-C:\Users\Shterio\source\repos\cinema\7 zad\obj\Debug\7 zad.exe
-C:\Users\Shterio\source\repos\cinema\7 zad\obj\Debug\7 zad.pdb

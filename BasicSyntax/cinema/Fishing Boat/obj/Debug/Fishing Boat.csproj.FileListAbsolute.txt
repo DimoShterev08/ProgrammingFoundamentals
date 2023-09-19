@@ -1,7 +1,0 @@
-C:\Users\Shterio\source\repos\cinema\Fishing Boat\obj\Debug\Fishing Boat.csproj.AssemblyReference.cache
-C:\Users\Shterio\source\repos\cinema\Fishing Boat\obj\Debug\Fishing Boat.csproj.CoreCompileInputs.cache
-C:\Users\Shterio\source\repos\cinema\Fishing Boat\bin\Debug\Fishing Boat.exe.config
-C:\Users\Shterio\source\repos\cinema\Fishing Boat\bin\Debug\Fishing Boat.exe
-C:\Users\Shterio\source\repos\cinema\Fishing Boat\bin\Debug\Fishing Boat.pdb
-C:\Users\Shterio\source\repos\cinema\Fishing Boat\obj\Debug\Fishing Boat.exe
-C:\Users\Shterio\source\repos\cinema\Fishing Boat\obj\Debug\Fishing Boat.pdb

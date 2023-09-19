@@ -1,7 +1,0 @@
-C:\Users\Shterio\source\repos\cinema\Summer Outfit\bin\Debug\Summer Outfit.exe.config
-C:\Users\Shterio\source\repos\cinema\Summer Outfit\bin\Debug\Summer Outfit.exe
-C:\Users\Shterio\source\repos\cinema\Summer Outfit\bin\Debug\Summer Outfit.pdb
-C:\Users\Shterio\source\repos\cinema\Summer Outfit\obj\Debug\Summer Outfit.csproj.AssemblyReference.cache
-C:\Users\Shterio\source\repos\cinema\Summer Outfit\obj\Debug\Summer Outfit.csproj.CoreCompileInputs.cache
-C:\Users\Shterio\source\repos\cinema\Summer Outfit\obj\Debug\Summer Outfit.exe
-C:\Users\Shterio\source\repos\cinema\Summer Outfit\obj\Debug\Summer Outfit.pdb
